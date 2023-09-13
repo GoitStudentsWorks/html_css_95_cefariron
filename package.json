@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/diamond_code_team/",
+    "build": "vite build --base=/html_css_95_cefariron/",
     "preview": "vite preview"
   },
   "devDependencies": {
